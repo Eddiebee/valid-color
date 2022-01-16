@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Valid Color",
+  "name": "Check out a valid color",
   "icons": [
     {
       "src": "favicon.ico",
